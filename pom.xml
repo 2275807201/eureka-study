@@ -6,6 +6,8 @@
 	<modules>
 		<module>eureka-server</module>
 		<module>eureka-client-pay</module>
+		<module>eureka-client-order</module>
+		<module>eureka-client-pay-remote</module>
 	</modules>
 
 	<parent>
