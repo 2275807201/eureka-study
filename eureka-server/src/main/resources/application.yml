@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: eureka-server
+  profiles:
+    active: server1
+
+#       表示是否注册自身到eureka服务器
+#       register-with-eureka: false
+#     是否从eureka上获取注册信息
+#     fetch-registry: false
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
