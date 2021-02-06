@@ -22,6 +22,12 @@
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 		</dependency>
 
+		<dependency>
+			<groupId>com.liangh</groupId>
+			<artifactId>eureka-client-pay-remote</artifactId>
+			<version>${eureka-study.version}</version>
+		</dependency>
+
 	</dependencies>
 
 

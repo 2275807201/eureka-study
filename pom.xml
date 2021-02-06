@@ -24,6 +24,7 @@
 	<properties>
 		<spring.boot.version>2.2.2.RELEASE</spring.boot.version>
 		<spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
+		<eureka-study.version>1.0-SNAPSHOT</eureka-study.version>
 	</properties>
 
 	<dependencies>

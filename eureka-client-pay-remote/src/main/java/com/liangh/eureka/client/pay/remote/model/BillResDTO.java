@@ -1,4 +1,4 @@
-package com.liangh.eureka.client.pay.model;
+package com.liangh.eureka.client.pay.remote.model;
 
 import lombok.Data;
 

@@ -13,7 +13,7 @@ public class OrderResDTO {
 	/**
 	 * 订单金额
 	 */
-	private String orderAmount;
+	private Long orderAmount;
 
 	/**
 	 * 订单内容
